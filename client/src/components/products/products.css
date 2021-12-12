@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: auto;
+}
+
+li {
+    font-size: 1.3rem;
+    line-height: 2rem;
+    border-bottom: 1px inset #777;
+}
+
+.grid-container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    background-color: #777777;
+    padding: 10px;
+  }
+
+
+

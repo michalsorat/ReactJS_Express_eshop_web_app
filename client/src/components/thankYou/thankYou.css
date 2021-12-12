@@ -1,0 +1,13 @@
+.container-adv {
+    display: block;
+}
+
+.container-adv h1 {
+    font-size: 3rem;
+}
+
+.container-adv img {
+    width: 50%;
+    max-width: 500px;
+    border: 1px solid black;
+}
